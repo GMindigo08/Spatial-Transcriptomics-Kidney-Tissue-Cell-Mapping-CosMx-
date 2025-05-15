@@ -10,11 +10,15 @@ This project is purely for educational purposes and is not intended for publicat
 is to develop skills in handling and visualizing spatial transcriptomics data.
 
 Repository Contents
-• Kidney_Spacial_Omics.py: Python script for analyzing and visualizing spatial
-transcriptomics data. The script includes:
-  o Subsetting diseased and non-diseased samples.
-  o Plotting cell type clusters.
-  o Visualizing spatial expression of specific cell types and genes.
-• Data Source: The dataset is derived from the study:
+Kidney_Spacial_Omics.py: Python script for analyzing and visualizing spatial transcriptomics data. The script includes:
+
+Subsetting diseased and non-diseased samples.
+
+Plotting cell type clusters.
+
+Visualizing spatial expression of specific cell types and genes.
+
+Data Source: The dataset is derived from the study:
 https://www.biorxiv.org/content/10.1101/2022.10.24.513598v2.full
-o GEO Accession: Series GSE211785
+
+GEO Accession: Series GSE211785
