@@ -7,12 +7,14 @@ This repository contains an independent project to practice spatial data visuali
 Python. Using publicly available spatial transcriptomics data, it compares the expression
 of specific cell types and marker genes in diseased and non-diseased kidney samples.
 
+-
 
 Note:
 
 This project is purely for educational purposes and is not intended for publication. The aim
 is to develop skills in handling and visualizing spatial transcriptomics data.
 
+-
 
 Repository Contents:
 
@@ -20,12 +22,9 @@ Kidney.Spatial.Project.Summary.pdf
 
 Kidney_Spatial_Omics.py: Python script for analyzing and visualizing spatial transcriptomics data. The script includes:
 
-Subsetting diseased and non-diseased samples.
+Subsetting diseased and non-diseased samples, plotting cell type clusters, visualizing spatial expression of specific cell types and genes.
 
-Plotting cell type clusters.
-
-Visualizing spatial expression of specific cell types and genes.
-
+-
 
 Data Source: 
 
