@@ -10,6 +10,7 @@ This project is purely for educational purposes and is not intended for publicat
 is to develop skills in handling and visualizing spatial transcriptomics data.
 
 Repository Contents
+
 Kidney_Spacial_Omics.py: Python script for analyzing and visualizing spatial transcriptomics data. The script includes:
 
 Subsetting diseased and non-diseased samples.
